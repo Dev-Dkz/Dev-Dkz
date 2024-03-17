@@ -3,7 +3,7 @@
 
 ![Dkz-Inc GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Dkz&show_icons=true&theme=dark)
 
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dkz_Inc)[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/jzn1996)[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dkz.inc?igsh=MWZ0bDNkdnI2bWc0MA%3D%3D&utm_source=qr)[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/975853751929823242)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dkz_Inc)[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/jzn1996)[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dkz.inc?igsh=MWZ0bDNkdnI2bWc0MA%3D%3D&utm_source=qr)[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/339108787921223693)
 
 ### ⌨️​ Hors du clavier
 
